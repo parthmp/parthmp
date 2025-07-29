@@ -29,8 +29,8 @@ I write software that solves real problems, not just adds noise. With over a dec
 
 ## 💼 Currently
 
-- Open for **freelance or full-time** opportunities - ideally remote, focused on meaningful work, not fluff.
-- Actively building tools that improve real-world productivity. One such tool will be [source-available soon].
+- Open for **freelance or full-time** opportunities - ideally remote, focused on meaningful work.
+- Building a side project called DeskMint - Source Available.
 
 ---
 
