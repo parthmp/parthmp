@@ -42,6 +42,3 @@ I write software that solves real problems, not just adds noise. With over a dec
 
 If you're looking for someone who can build systems end-to-end, doesn't outsource, and prefers clean code over clever hacks - drop a message.
 
----
-
-**No BS. Just working software.**
