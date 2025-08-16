@@ -37,7 +37,7 @@ I write software that solves real problems, not just adds noise. With over a dec
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Custom DB](https://img.shields.io/badge/Custom%20JSON%20Database-555?style=for-the-badge)
+![Custom DB](https://img.shields.io/badge/Custom%20JSON%20Database-555?style=flat)
 
 ## 📚 Technologies & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)
@@ -60,7 +60,7 @@ I write software that solves real problems, not just adds noise. With over a dec
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=flat)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff&style=flat)
 ![FFMPEG](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=fff&style=flat)
-![GhostScript](https://img.shields.io/badge/GhostScript-000000?style=for-the-badge)
+![GhostScript](https://img.shields.io/badge/GhostScript-000000?style=flat)
 ![Perl CGI](https://img.shields.io/badge/Perl%20CGI-39457E?logo=perl&logoColor=fff&style=flat)
 
 ## 🔧 Tools
@@ -71,17 +71,17 @@ I write software that solves real problems, not just adds noise. With over a dec
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=flat)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=flat)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
 ![IIS](https://img.shields.io/badge/IIS-0078D7?logo=microsoft&logoColor=fff&style=flat)
 ![Robo 3T](https://img.shields.io/badge/Robo%203T-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Atom](https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=fff&style=flat)
-![Brackets](https://img.shields.io/badge/Brackets-007ACC?style=for-the-badge)
+![Brackets](https://img.shields.io/badge/Brackets-007ACC?style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=fff&style=flat)
-![CodeBlocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge)
+![CodeBlocks](https://img.shields.io/badge/Code::Blocks-000000?style=flat)
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
@@ -90,6 +90,7 @@ I write software that solves real problems, not just adds noise. With over a dec
 ## 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+
 
 ---
 
