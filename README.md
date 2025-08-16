@@ -5,14 +5,13 @@ I write software that solves real problems, not just adds noise. With over a dec
 ---
 ## 🚀 Featured Projects - (In development)
 
-<p align="center">
-  <a href="https://github.com/parthmp/deskmint-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-backend&theme=radical" />
-  </a>
-  <a href="https://github.com/parthmp/deskmint-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-frontend&theme=radical" />
-  </a>
-</p>
+<a href="https://github.com/parthmp/deskmint-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-backend&theme=radical" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/parthmp/deskmint-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-frontend&theme=radical" />
+</a>
+
 
 
 
