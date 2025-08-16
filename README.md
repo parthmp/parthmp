@@ -5,9 +5,8 @@ I write software that solves real problems, not just adds noise. With over a dec
 ---
 ## 🚀 Featured Projects
 
-| Backend | Frontend |
-|---------|----------|
 | <a href="https://github.com/parthmp/deskmint-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-backend&theme=radical&update=1" /></a> | <a href="https://github.com/parthmp/deskmint-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-frontend&theme=radical&update=1" /></a> |
+|---|---|
 
 
 ## 🧠 Tech Overview
