@@ -3,7 +3,7 @@
 I write software that solves real problems, not just adds noise. With over a decade of experience across backend, frontend, systems, and architecture, I focus on building reliable, secure, and maintainable systems that just work.
 
 ---
-## 🚀 Featured Projects - (In development)
+## 🚀 Featured Project(s) - (Side project(s) - In development)
 
 <a href="https://github.com/parthmp/deskmint-backend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-backend&theme=radical" />
