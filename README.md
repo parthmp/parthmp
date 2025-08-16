@@ -5,11 +5,11 @@ I write software that solves real problems, not just adds noise. With over a dec
 ---
 ## 🚀 Featured Projects
 
-<a href="https://github.com/yourusername/repo1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-backend&theme=default" />
+<a href="https://github.com/parthmp/deskmint-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-backend&theme=dark" />
 </a>
-<a href="https://github.com/yourusername/repo2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-frontend&theme=default" />
+<a href="https://github.com/parthmp/deskmint-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmp&repo=deskmint-frontend&theme=dark" />
 </a>
 
 ## 🧠 Tech Overview
