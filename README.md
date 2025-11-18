@@ -43,6 +43,7 @@ I write software that solves real problems, not just adds noise. With over a dec
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-6D9A00?logo=php&logoColor=fff&style=flat)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat)
+![Nuxt](https://img.shields.io/badge/Nuxt-4FC08D?logo=Nuxt&logoColor=fff&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=flat)
 ![Laravel Nova](https://img.shields.io/badge/Laravel%20Nova-FF2D20?logo=laravel&logoColor=fff&style=flat)
@@ -116,7 +117,7 @@ I write software that solves real problems, not just adds noise. With over a dec
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/parthmp/)
 - 🌐 [Personal Website](https://parthparmar.dev)
-- 🛠️ [Portfolio](https://contra.com/parthparmaronline/work)
+- 🛠️ [Portfolio](https://parthparmar.dev/portfolio)
 
 If you're looking for someone who can build systems end-to-end, doesn't outsource, and prefers clean code over clever hacks - drop a message.
 
